@@ -1,0 +1,5 @@
+@media screen (max-width:300px){
+    fieldset{
+        size: 700;
+    }
+}
