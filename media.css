@@ -3,3 +3,41 @@
         size: 700;
     }
 }
+
+
+body{
+    background-color: #cdcdcd;
+  }
+  
+  
+  
+  legend{
+      color: black;
+  }
+  
+  
+  #main{
+      font-style: serif;
+      margin-left: 530px;
+  }
+  fieldset{
+      align-self: center;
+      background-color: #f0d6c7;
+       color:black;
+  }
+  
+  div{
+      display:block;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  
+  /*form text*/
+  fieldset{
+      width: max-content;
+      margin-left: 500px
+  }
+
+  b
