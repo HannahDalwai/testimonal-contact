@@ -28,3 +28,10 @@ div{
     margin-left: auto;
     margin-right: auto;
 }
+
+
+/*form text*/
+fieldset{
+    width: max-content;
+    margin-left: 500px
+}
